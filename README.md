@@ -1,7 +1,7 @@
 # VITALS — Health Tracker & Analytics (v2.0, web)
 
 A full rewrite of the desktop Tkinter health tracker as a web app:
-a Node/Express/MySQL API plus a React front end styled to match your
+a Node/Express/MySQL API plus a React front end styled to match my
 portfolio's dark, brutalist design system — near-black background,
 acid-yellow accent, Space Mono everywhere, zero border-radius, hard
 offset shadows instead of blur, and a floating icon rail instead of
